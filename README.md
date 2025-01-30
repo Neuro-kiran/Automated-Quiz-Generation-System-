@@ -21,13 +21,4 @@
   - Context-aware question generation
   - Answer validation via QA models
 
-## Installation ⚙️
-```bash
-git clone https://github.com/yourusername/auto-quiz-generator.git
-cd auto-quiz-generator
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Download NLP models
-python -m spacy download en_core_web_sm
